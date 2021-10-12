@@ -1,4 +1,7 @@
 ---
+# Deactive page
+active: false
+
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
