@@ -26,4 +26,4 @@ I teach comparative politics, focusing on causal theories and empirical evidence
 - Politics of the European Union
 - Theses in quantitative comparative politics or political behaviour
 
-<p>Please visit the University of Oxford intranet (<a class="highlight" href="https://canvas.ox.ac.uk/">Canvas</a>) or contact me by <a class="highlight" href="https://luigi-marini.github.io/#contact/">email</a> for details and teaching material or supervision.</p>
+<p>Please visit the University of Oxford intranet (<a class="highlight" href="https://canvas.ox.ac.uk/">Canvas</a>) or contact me by <a class="highlight" href="https://luigi-marini.github.io/#contact">email</a> for details and teaching material or supervision.</p>
