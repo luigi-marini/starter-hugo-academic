@@ -5,7 +5,7 @@
 
 title: Luigi Marini # Website name
 baseurl: 'https://luigi-marini.github.com/' # Website URL
-copyright: 'Under construction' # Footer text, e.g. '© {year} Me'
+copyright: '2021' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
